@@ -1,7 +1,7 @@
 **Python-AtliQ-Hotels-Data-Analysis**
 
 **Project Overview**
-This project is a part of the Data Analytics Bootcamp at Codebasics and focuses on analyzing the hotel industry using Python.
+This project is a part of the Data Analytics Bootcamp at Codebasics and focuses on analyzing the hotel industry using Python(hospital_analysis.ipynb)
 
 **Problem Statement**
 
