@@ -13,6 +13,7 @@ The objective of this project is to conduct an in-depth analysis of the hotel in
 
 
 **Project Highlights**
+
 ✅ **Data Cleaning:** Managing missing values and detecting outliers.
 
 ✅ **Data Transformation:** Introduced occupancy percentage columns.
@@ -30,6 +31,7 @@ The objective of this project is to conduct an in-depth analysis of the hotel in
 •	Assessing revenue contribution by booking platforms.
 
 **Skills Gained**
+
 📌 **Python Programming:** Strengthened Python skills for data analysis, cleaning, transformation, and visualization.
 
 📌 **Data Visualization:** Used Matplotlib to create insightful charts and graphs.
